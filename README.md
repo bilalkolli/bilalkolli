@@ -12,9 +12,11 @@ My personal website, where you can find my projects and my resume.
 
 First fullstack project of cloning SpaceX's online store using my own design
 
-### technologies
+### Technologies
 
-* Vuejs
-* Nuxtjs
-* Nodejs
-* SQL
+* Front-end
+   Vuejs
+   Nuxtjs
+* backend
+   Nodejs
+   SQL
