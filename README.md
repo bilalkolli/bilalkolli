@@ -14,9 +14,9 @@ First fullstack project of cloning SpaceX's online store using my own design
 
 ### Technologies
 
-* [Front-end]
-  Vuejs
-  Nuxtjs
-* [Back-end]
-  Nodejs
-  SQL
+* [Vuejs](https://vuejs.org/)
+* [Nuxtjs](https://nuxt.com/)
+* [Nodejs](https://nodejs.org/)
+* [SQL](https://mysql.com/)
+
+
