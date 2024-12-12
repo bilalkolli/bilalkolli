@@ -8,7 +8,7 @@ I create web application with Vue,Nuxt and tailwindCSS as a design system.
 
  QuizNuxt is a quiz platform built with Nuxt,Vue and TailwindCSS.
 
-* [Portfolio](https://quiznuxt.netlify.app/)
+* [Portfolio](https://bilalkolli.netlify.app/)
 
  Here is my personnal portfolio built with Nuxt and Vue.
  
