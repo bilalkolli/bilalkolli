@@ -1,9 +1,9 @@
  ### Hi there 👋
 
-I create web application with Vuejs and Nuxtjs.
+I create web application with Vue,Nuxt and tailwindCSS as a design system.
 
 ### My personal projects
 
-* [Prompt-Craft](https://Prompt-Craft.netlify.app)
+* [Quiznuxt](https://quiznuxt.netlify.app/)
 
- Prompt-Craft is a full-stack project, where you have 18 initial AI prompts for your business and user-generated prompts for Free !
+ QuizNuxt is a quiz platform built with Nuxt,Vue and TailwindCSS.
