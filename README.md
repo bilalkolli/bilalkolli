@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-I create web application with Vue,Nuxt and tailwindCSS as a design system.
+I create web application with Vue,Nuxt and tailwindCSS.
 
 ### My personal projects
 
