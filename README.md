@@ -2,12 +2,6 @@
 
 I create web application with Vue,Nuxt,TypeScript and TailwindCSS.
 
-### My personal projects
-
-* [Quiznuxt](https://quiznuxt.netlify.app/)
-
-QuizNuxt is a quiz platform built with Nuxt,Vue and TailwindCSS.
-
 ### Figma Integrations
 
 * [Real-Estate Dashboard](https://figma-integration-dashboard.netlify.app/)
