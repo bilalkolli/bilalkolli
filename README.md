@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-I create web application with Vue,Nuxt,TypeScript and TailwindCSS.
+I create web application with Vue, Nuxt, TypeScript and TailwindCSS.
 
 ### Figma Integrations
 
