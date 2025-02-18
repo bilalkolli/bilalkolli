@@ -4,7 +4,7 @@ I create and integrate web application with Vue, Nuxt, TypeScript and TailwindCS
 
 ### Figma Integrations
 
-* [Recipe-application](https://figma-integration-recipe-application.netlify.app/)
+* [Recipe-application](https://recipe-application-bilal.vercel.app)
   
 Integration of a Figma design for a Recipe Application using Nuxt, Vue, Typescript, and TailwindCSS. [Design on Figma](https://www.figma.com/design/Ufn6GLpOMc1dgcqH23AMps/recipe-application?node-id=0-1&p=f&t=1bkA7AkkEd76KwM8-0).
 
